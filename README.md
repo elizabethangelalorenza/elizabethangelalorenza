@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, my name is Vickry. I'm from Indonesia. Nice to meet you. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="30px">
+## Hi, my name is Vickry. I'm from Indonesia. Nice to meet you. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="30">
 
 ---
 <p align="center">
